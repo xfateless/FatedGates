@@ -835,9 +835,9 @@ Check this file if a command says to check the log file.
 
 # Credits
 
-FatedGates is an extended fork of **KindredPortals**.
+FatedGates is an extended fork of [**KindredPortals**](https://github.com/odjit/KindredPortals).
 
-Thanks to the original KindredPortals author for the base functionality this mod builds on, and to the V Rising Modding Community for documentation, examples, and tooling around V Rising server modding.
+Thanks to the original KindredPortals author, Odjit, for the base functionality this mod builds on, and to the V Rising Modding Community for documentation, examples, and tooling around V Rising server modding.
 
 ---
 
